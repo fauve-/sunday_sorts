@@ -1,0 +1,2 @@
+Just some sorting algorithms because I wanted to play with rust's generics.
+Bench is in nightly right now, so nightly is required.
